@@ -1,9 +1,23 @@
-### Hi there, I'm Ayush!👋
-### I Develop things. 👾
-<h1> align="center">
-Hi there, I'm Ayush!👋.<br>I Develop things.
-  <br><br>
+
+<h1 align="center">
+Hi there, I'm Ayush!👋
+  <br>
+  I Develop things.  
 </h1>
+
+
+
+
+### More about me:
+- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/ayushsingh02/)
+- 🐓 [Twitter](https://twitter.com/_ayushsingh_)
+
+
+---
+![](https://komarev.com/ghpvc/?username=ayushsingh02&color=blue&style=for-the-badge)
+<!-- [![wakatime](https://wakatime.com/badge/user/2d17ce26-1611-4757-bf95-fdb0da64fc74.svg)](https://wakatime.com/@2d17ce26-1611-4757-bf95-fdb0da64fc74) -->
+
+
 
 <!-- For Snake Repo Activity  -->
 <!-- <picture>
