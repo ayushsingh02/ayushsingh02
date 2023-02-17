@@ -13,8 +13,9 @@ Hi there, I'm Ayush!👋
 
 
 ### More about me:
-- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/ayushsingh02/)
-- 🐓 [Twitter](https://twitter.com/_ayushsingh_)
+
+- 🌱 [Instagram](https://www.instagram.com/ayush_xi/)
+- 📫 [Twitter](https://twitter.com/_ayushsingh_)
 
 
 ---
@@ -23,17 +24,41 @@ Hi there, I'm Ayush!👋
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- For Snake Repo Activity  -->
+
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture> -->
 <!--
-**ayushsingh02/ayushsingh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
