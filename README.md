@@ -22,13 +22,8 @@ Hi there, I'm Ayush!👋
 ![](https://komarev.com/ghpvc/?username=ayushsingh02&color=blue&style=for-the-badge)
 <!-- [![wakatime](https://wakatime.com/badge/user/2d17ce26-1611-4757-bf95-fdb0da64fc74.svg)](https://wakatime.com/@2d17ce26-1611-4757-bf95-fdb0da64fc74) -->
 
-
-
-
-
-
-
-
+--- 
+<img src="https://github-readme-stats.vercel.app/api?username=ayushsingh02&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 
 
@@ -58,6 +53,9 @@ Hi there, I'm Ayush!👋
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture> -->
+
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ayushsingh02&show_icons=true&locale=en" alt="AyushSingh" /> -->
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
