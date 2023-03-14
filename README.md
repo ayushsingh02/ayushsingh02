@@ -1,4 +1,3 @@
-
 <h1 align="center">
 Hi there, I'm Ayush!👋
   <br>
@@ -8,9 +7,6 @@ Hi there, I'm Ayush!👋
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 </p>
 </h1>
-
-
-
 
 ### More about me:
 
@@ -30,7 +26,6 @@ Hi there, I'm Ayush!👋
 
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=ayushsingh02&show_icons=true&locale=en" alt="AyushSingh" /> -->
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -41,4 +36,3 @@ Hi there, I'm Ayush!👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
- 
