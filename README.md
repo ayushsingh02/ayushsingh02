@@ -10,7 +10,7 @@ Hi there, I'm Ayush!👋
 
 ### More about me:
 
-
+- ⚡ [LeetCode](https://leetcode.com/ayushsingh02/)
 - 🌱 [Instagram](https://www.instagram.com/ayush_xi/)
 - 📫 [Twitter](https://twitter.com/_ayushsingh_)
 
